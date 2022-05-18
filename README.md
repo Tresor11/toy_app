@@ -1,1 +1,1 @@
-# This is A Toy app
+# This is A Toy app.
